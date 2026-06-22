@@ -1,0 +1,5 @@
+Jan 10 12:00:01 server sshd[1001]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jan 10 12:00:10 server sshd[1002]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jan 10 12:00:20 server sshd[1003]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jan 10 12:00:30 server sshd[1004]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jan 10 12:00:40 server sshd[1005]: Failed password for root from 192.168.1.10 port 22 ssh2
